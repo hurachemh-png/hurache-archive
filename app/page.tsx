@@ -176,7 +176,7 @@ export default function Home() {
 
             <p style={subtitle}>
               A living archive of public releases, selected transmissions and
-              deeper creative work..
+              deeper creative work.
             </p>
 
             <div style={buttonRow}>
