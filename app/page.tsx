@@ -267,6 +267,24 @@ export default function Home() {
             </a>
           </section>
         </section>
+
+<section style={{ textAlign: "center", padding: "50px 20px" }}>
+  <h2 style={{ color: "#d4af37", marginBottom: "15px" }}>
+    SUBSCRIBE TO THE INNER ARCHIVE
+  </h2>
+  <p style={{ color: "#f1d783", marginBottom: "25px" }}>
+    Independent writing, investigations and creative transmissions.
+  </p>
+  <iframe
+  className="mx-auto block"
+    src="https://mysticmike.substack.com/embed"
+    width="480"
+    height="320"
+    style={{ border: "1px solid #d4af37", maxWidth: "100%" }}
+    title="Subscribe to Hurache"
+  />
+</section>
+      
       </main>
     </>
   );
