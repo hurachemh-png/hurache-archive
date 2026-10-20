@@ -142,6 +142,29 @@ export default function Home() {
       `}</style>
 
       <main>
+        
+<a
+  href="https://mysticmike.substack.com/subscribe"
+  target="_blank"
+  rel="noopener noreferrer"
+  style={{
+    position: "fixed",
+    top: "20px",
+    right: "20px",
+    zIndex: 1000,
+    background: "#d4af37",
+    color: "#000",
+    padding: "10px 16px",
+    borderRadius: "25px",
+    fontSize: "12px",
+    fontWeight: "bold",
+    letterSpacing: "1px",
+    textDecoration: "none",
+  }}
+>
+  SUBSCRIBE FOR MORE
+</a>
+
         <section style={hero}>
           <div className="hero-bg" style={heroImage}></div>
 
