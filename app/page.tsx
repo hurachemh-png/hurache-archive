@@ -144,8 +144,8 @@ export default function Home() {
       <main>
         
 <a
-  href="https://mysticmike.substack.com/subscribe"
-  target="_blank"
+href="#subscribe"
+target="_self"
   rel="noopener noreferrer"
   style={{
     position: "fixed",
@@ -291,7 +291,7 @@ export default function Home() {
           </section>
         </section>
 
-<section style={{ textAlign: "center", padding: "50px 20px" }}>
+<section id="subscribe" style={{ textAlign: "center", padding: "50px 20px" }}>
   <h2 style={{ color: "#d4af37", marginBottom: "15px" }}>
     SUBSCRIBE TO THE INNER ARCHIVE
   </h2>
