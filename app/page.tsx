@@ -291,6 +291,23 @@ target="_self"
           </section>
         </section>
 
+
+<section style={{ textAlign: "center", padding: "50px 20px" }}>
+  <h2 style={{ color: "#d4af37", marginBottom: "15px" }}>
+    BIG SKAT — CONCEPT MATERIAL
+  </h2>
+  <p style={{ color: "#f1d783", marginBottom: "25px" }}>
+    Listen to the album and download it for free.
+  </p>
+  <iframe
+   style={{ border: 0, maxWidth: "100%", display: "block", margin: "0 auto" }}
+    src="https://bandcamp.com/EmbeddedPlayer/album=3604565823/size=large/bgcol=333333/linkcol=e99708/tracklist=false/transparent=true/"
+    width="350"
+    height="470"
+    title="Big Skat — Concept Material"
+    loading="lazy"
+  />
+</section>
 <section id="subscribe" style={{ textAlign: "center", padding: "50px 20px" }}>
   <h2 style={{ color: "#d4af37", marginBottom: "15px" }}>
     SUBSCRIBE TO THE INNER ARCHIVE
